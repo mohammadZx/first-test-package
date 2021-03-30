@@ -1,0 +1,19 @@
+{
+    "name": "smd/cms",
+    "description": "this just a cms for test creating package",
+    "type": "project",
+    "authors": [
+        {
+            "name": "Mohammad Yazdani",
+            "email": "mohammad13yazdani@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "Smd\\Cms\\": "src/"
+        }
+    },
+    "require": {
+        "illuminate/support": "~5"
+    }
+}

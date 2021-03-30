@@ -1,7 +1,7 @@
 {
     "name": "smd/cms",
     "description": "this just a cms for test creating package",
-    "type": "project",
+    "type": "package",
     "license" : "MIT",
     "authors": [
         {

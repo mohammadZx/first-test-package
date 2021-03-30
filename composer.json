@@ -2,6 +2,7 @@
     "name": "smd/cms",
     "description": "this just a cms for test creating package",
     "type": "project",
+    "license" : "MIT",
     "authors": [
         {
             "name": "Mohammad Yazdani",
